@@ -13,7 +13,7 @@
 
 #### 测试结果报告（部分）
 
-![Snipaste_2020-07-17_21-46-32](C:\Users\ijerr\Desktop\Snipaste_2020-07-17_21-46-32.png)
+![Snipaste_2020-07-17_21-46-32.png](https://i.loli.net/2020/07/21/4HRPOiuLYcTDvy7.png)
 
 
 
