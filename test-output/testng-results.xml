@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="15546" started-at="2020-07-19T16:17:56Z" finished-at="2020-07-19T16:18:12Z">
+    <groups>
+    </groups>
+    <test name="resqres-api-test" duration-ms="15546" started-at="2020-07-19T16:17:56Z" finished-at="2020-07-19T16:18:12Z">
+      <class name="TestListUser">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestListUser@458ad742]" name="setup" is-config="true" duration-ms="14876" started-at="2020-07-20T00:17:56Z" finished-at="2020-07-20T00:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="T01_StatusCodeTest()[pri:0, instance:TestListUser@458ad742]" name="T01_StatusCodeTest" duration-ms="1" started-at="2020-07-20T00:18:11Z" finished-at="2020-07-20T00:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T01_StatusCodeTest -->
+        <test-method status="PASS" signature="T02_DataTest()[pri:0, instance:TestListUser@458ad742]" name="T02_DataTest" duration-ms="620" started-at="2020-07-20T00:18:11Z" finished-at="2020-07-20T00:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T02_DataTest -->
+        <test-method status="PASS" signature="T03_PageTest()[pri:0, instance:TestListUser@458ad742]" name="T03_PageTest" duration-ms="34" started-at="2020-07-20T00:18:12Z" finished-at="2020-07-20T00:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T03_PageTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestListUser@458ad742]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-07-20T00:18:12Z" finished-at="2020-07-20T00:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestListUser -->
+    </test> <!-- resqres-api-test -->
+  </suite> <!-- Default Suite -->
+</testng-results>
