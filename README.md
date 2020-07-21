@@ -19,5 +19,5 @@
 
 项目参考
 
- https://www.jianshu.com/p/20f82c961632
- https://www.swtestacademy.com/rest-assured-tutorial-api-testing/
+ - https://www.jianshu.com/p/20f82c961632
+ - https://www.swtestacademy.com/rest-assured-tutorial-api-testing/
