@@ -1,4 +1,4 @@
-# resqres-api-test
+# reqres-api-test
  Rest Assured Automation Example
 
 使用 Rest Assured 和 TestNG 实现数据驱动的接口测试。
